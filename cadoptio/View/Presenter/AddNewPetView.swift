@@ -59,7 +59,7 @@ struct AddNewPetView: View{
             breed: petBreed,
             weight: petWeight,
             gender: petGender,
-            imageName: "Leppy"
+            imageName: "Sky"
         )
         context.insert(newPet)
     }
